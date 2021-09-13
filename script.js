@@ -3,7 +3,7 @@ var gravity = 9.8;
 var mass = 1;
 var velocity = 0;
 
-//color palette//
+//color palette
 //#f1f1f1//
 //#d4d9dd//
 //#bbb6b6//
